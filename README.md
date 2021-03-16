@@ -8,3 +8,5 @@ iOS的情况大家都懂的，加上自己天赋有限，只能横向扩展编�
 步入中年的隐宅。
 
 一度用吉里吉里写了AVG脚本，可是还是太烂了，哈哈。
+
+[![seasonZhu's github stats](https://github-readme-stats.vercel.app/api?username=seasonZhu&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
