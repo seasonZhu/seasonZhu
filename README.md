@@ -2,6 +2,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seasonZhu" />
 </a>
 
+There is season.
+
+I am currently an iOS developer.
+Anyone familiar with the iOS ecosystem knows the situation. Given my limited talent, I can only broaden my knowledge horizontally across programming languages. The language I use most is Swift, but of course, I also know Objective-C. I have worked on Flutter projects as well. Out of laziness, I learned Python for automation, and I am currently studying Vue and uni-app, aiming to become a full-stack developer!
+
+Don’t ask me why I haven’t learned Android.
+
+A middle-aged homebody.
+
+I once wrote AVG scripts using Kirikiri, but honestly, they were pretty bad, haha.
+
 这里是season。
 
 目前是一名iOS开发程序员。
